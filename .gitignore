@@ -1,7 +1,7 @@
 *.DS_Store
 *.csproj
 /Library
-/LastDungeon/Library
+/New Unity Project (2)/Library
 .vs/
 obj/
 Temp/
